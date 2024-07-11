@@ -19,18 +19,25 @@ A/B testing is a powerful technique used to compare two versions (A and B) of a 
          Mount your Google Drive.
          Navigate to the desired directory in your Google Drive where you want to clone the repository.
          Clone the repository. 
+         
      2. Install required packages or Import necessary Libraries.
+     
      3. Download and extract the dataset.
         Upload the dataset file to your Google Drive.
         Extract the dataset in your project directory.
         
  **2) DataSets**
-         Dataset based on A/B testing submitted by İlker Yıldız on Kaggle. 
+         
+         Dataset based on A/B testing submitted by İlker Yıldız on Kaggle.
+         
          Here we use two datasets, One is for control Campaign and the other one is for Test Campaign.
+         
          original_group.csv
+         
          test_group.csv
          
  **3) Usage**
+       
        1.Optimized Conversions
        
        2.Data-Driven Decisions
@@ -51,6 +58,7 @@ A/B testing is a powerful technique used to compare two versions (A and B) of a 
        ├── README.md
        
  **5) Contributing** 
+       
         Contributions are welcome! Please follow these steps**
 
             Fork the repository.
@@ -60,11 +68,14 @@ A/B testing is a powerful technique used to compare two versions (A and B) of a 
             Open a Pull Request.
             
  **6) Credits**
+             
              Statso for the original problem statement.
              Aman Kharwal
 
  **7) License**
+          
             This project is licensed under the MIT License - see the LICENSE file for details.
 
  **8) Contact Information**
-         MailId:- santhuhitter1515@gmail.com
+        
+            MailId:- santhuhitter1515@gmail.com
