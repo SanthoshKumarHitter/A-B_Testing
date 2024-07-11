@@ -24,17 +24,21 @@ A/B testing is a powerful technique used to compare two versions (A and B) of a 
         Upload the dataset file to your Google Drive.
         Extract the dataset in your project directory.
         
- **2)DataSets**
+ **2) DataSets**
          Dataset based on A/B testing submitted by İlker Yıldız on Kaggle. 
          Here we use two datasets, One is for control Campaign and the other one is for Test Campaign.
          original_group.csv
          test_group.csv
          
- **3)Usage**
+ **3) Usage**
        1.Optimized Conversions
+       
        2.Data-Driven Decisions
+       
        3.Continuous Improvement
+       
        4.Cost-Effectiveness
+       
        5.Improved Conversions
        
  **4) File Structure**
